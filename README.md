@@ -1,0 +1,1 @@
+This project is going to house a working interactive resume / CV. It will be every experience I have. And I will be able to add as my career develops.  

@@ -1,0 +1,67 @@
+ EDUCATION
+The University of Texas at Austin The University of Texas at Austin
+DIONDRE M. DUBOSE
+diondre.dubose@utexas.edu ·Linkedin.com/in/diondredubose Dallas, TX · (832)-245-6759
+Computer Science / Artificial Intelligence, M.S.
+Electrical & Computer Engineering, B.S. Tech Core: Integrated Circuits
+Spring 2026 Spring 2023
+GPA: 3.61/4.0 E
+June 2023 - Current
+ EXPERIENCE
+Product, Test, and Validation Engineer - Texas Instruments - Dallas, Tx
+● Trimmed magnetic Hall sensors to meet design specifications and customer requirements.
+● Developed C++ test programs to analyze and test magnetic position sensors.
+● Contributed to the AI Task Force, generating TI-wide productivity enhancement ideas.
+● Analyzed test data to extract valuable insights, improving team performance and product quality.
+● Collaborated with design teams to troubleshoot VBOX, SCAN, and IDDQ issues.
+ ● Worked extensively on ETS88 and ETS364 testers, ensuring accurate and reliable test results.
+● Utilized test benches and validation benches to simulate and validate sensor performance.
+● Applied hands-on experience with I2C, SPI, and USB interfaces to ensure proper integration and functionality of test equipment.
+Test Engineering Intern - Texas Instruments - Dallas, Tx May 2022 - Aug 2022
+● Developed C++ test programs to analyze and test magnetic position sensors.
+● Created a script to rotate a magnet, testing the magnetics at probe and final test stages.
+● Designed and implemented a loadboard checker, ensuring proper routing of instruments from the tester to the device under test.
+● Tested device specifications in various operational modes, ensuring compliance and performance.
+● Ran diagnostics on AMR and Hall sensors using Eagle ATE.
+● Developed software tools and scripts to support test processes, program debugging, and test time analysis.
+● Conducted thorough validation bench tests to verify sensor accuracy and reliability, gaining hands-on experience with I2C, SPI, and USB buses
+to troubleshoot
+Supplemental Instructor/Teacher’s Assistant - University of Texas at Austin Aug 2020 - May 2022
+● Led SI sessions for introductory courses (ECE 307E, ECE 306, and ECE 319K/H) in electrical engineering, computing, and embedded systems,
+improving student grades by up to a full letter grade.
+● Held office hours, graded assignments, and created exam questions for courses covering circuit analysis, digital logic, microcontrollers, and
+programming.
+● Assisted students with Python, 2 assembly languages, and C programming, enhancing their coding skills and problem-solving abilities.
+● Developed and facilitated collaborative learning activities, fostering a deeper understanding of course material.
+● Enhanced student engagement and retention through interactive, peer-assisted study sessions.
+● Taught components of x86 architecture, DDR2/3 memory interfaces, and USB, preparing students for industry challenges.
+Federated Learning and Depth Estimation on Edge Devices Research - University of Texas at Austin Aug 2022 - May 2023
+● Developed a federated learning system using UNET architecture with a MobileNetV3 backbone, achieving a RMSE of 0.45 and SSIM of 0.89.
+● Utilized NVIDIA Jetson Nano and Microsoft Azure Kinect RGB-D cameras for real-time depth prediction, processing datasets from NYU V2 and
+UT Austin classrooms.
+● Engineered a robust communication protocol with sockets and messages to ensure fault tolerance and efficient data transfer.
+● Optimized model performance through hyperparameter tuning and federated averaging, improving depth prediction accuracy by 15%.
+● Implemented error handling techniques to prevent data corruption and ensure continuous operation despite device failures.
+SuperTuxKart Hockey AI Development - University of Texas at Austin
+● Developed a state-based SuperTuxKart hockey player using Imitation Learning (IL) and Reinforcement Learning (RL).
+● Designed a neural network architecture with linear, ReLU, and dropout layers.
+● Collected and normalized 93 input parameters, optimizing model performance.
+● Employed Adam optimizer, minimizing Mean Squared Error (MSE) loss.
+● Achieved an 84% success metric, surpassing industry standards.
+● Tools: Python, OpenAI Gym, TensorFlow/PyTorch, NVIDIA GeForce RTX 3060, Google Tesla T4.
+● Key Skills: Deep Learning, Reinforcement Learning, Imitation Learning, Neural Networks, Model Optimization, Game AI Development
+CERTIFICATIONS   _
+SKILLS
+Technical: Python, C, C++, Java, TensorFlow, PyTorch, Scikit-Learn, SQL, CSS, HTML, AWS, I2C, SPI, USB, SATA, x86 architecture, DDR2/3 memory
+interfaces, Test benches, Validation benches, Cmake
+Skills I Would Like to Learn: PCI, PCIe, LPC, and SATA interfaces, GPU programming, Parallel Systems, and Distributed Computing
+S
+Spring 2024
+●
+●
+AWS Certified Cloud Practitioner, Amazon Web Services (AWS) Issued Sep 2023, Expires Sep 2026
+Skills: Amazon Web Services (AWS), Cloud Computing
+Machine Learning Specialization, Coursera
+Issued Sep 2023, Expires Sep 2026
+Skills: Amazon Web Services (AWS), Cloud Computing
+ 
